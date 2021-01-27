@@ -1,7 +1,7 @@
 from modules import division, guessing_game
 
 print('Hej och välkommen till Josefins Kaos')
-print('Först kommer du få en lista returnerad till dig med de tal som är delbara till heltal med 7 och 11.')
+print('Först kommer du få ange två siffror och få tillbaka en lista på de tal mellan 1 och 1000 som är delbara med dina siffror. ')
 print('Efter det kommer du få gissa på ett slumpat tal mellan 1 och 100. ')
 print('Lycka till och ha så kul! ')
 
